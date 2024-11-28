@@ -12,4 +12,3 @@ function wrapAdjective(wrapper){
         return`You are ${wrapper}${adjective}${wrapper}!`
     }
 }
-wrapAdjective("*")("stupid")
